@@ -1,0 +1,5 @@
+name = "ToyRegistry"
+repo = "git@github.com:jw3126/ToyRegistry.git"
+uuid = "071889fc-69e7-11e9-1128-41fb1ef377da"
+
+[packages]
