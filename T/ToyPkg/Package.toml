@@ -1,0 +1,4 @@
+authors = ["Jan Weidner <jw3126@gmail.com>"]
+name = "ToyPkg"
+repo = "git@github.com:jw3126/ToyPkg.jl.git"
+uuid = "6bad61c4-3c25-5a46-b15a-41e8b48bfd73"
