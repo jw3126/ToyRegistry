@@ -1,0 +1,3 @@
+name = "MonoRepo"
+uuid = "3c8a9383-2ad9-46d8-8e41-120eca606183"
+repo = "git@github.com:jw3126/MonoRepo.jl.git"

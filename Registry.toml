@@ -4,4 +4,5 @@ repo = "git@github.com:jw3126/ToyRegistry.git"
 
 [packages]
 2cadc5f8-b122-44ad-bbc2-c71927881004 = { name = "SubB", path = "S/SubB" }
+3c8a9383-2ad9-46d8-8e41-120eca606183 = { name = "MonoRepo", path = "M/MonoRepo" }
 df5d75f1-8db2-496f-93aa-fe1b9cef9761 = { name = "SubA", path = "S/SubA" }
