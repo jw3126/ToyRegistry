@@ -1,0 +1,4 @@
+name = "SubA"
+uuid = "df5d75f1-8db2-496f-93aa-fe1b9cef9761"
+repo = "https://github.com/jw3126/MonoRepo.jl"
+subdir = "SubA"
