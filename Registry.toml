@@ -1,6 +1,7 @@
 name = "ToyRegistry"
-repo = "git@github.com:jw3126/ToyRegistry.git"
 uuid = "071889fc-69e7-11e9-1128-41fb1ef377da"
+repo = "git@github.com:jw3126/ToyRegistry.git"
 
 [packages]
 6bad61c4-3c25-5a46-b15a-41e8b48bfd73 = { name = "ToyPkg", path = "T/ToyPkg" }
+e1c0b468-88ae-43d4-b8f0-42fe275cf37e = { name = "MonoPkg", path = "M/MonoPkg" }

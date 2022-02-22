@@ -1,0 +1,3 @@
+name = "MonoPkg"
+uuid = "e1c0b468-88ae-43d4-b8f0-42fe275cf37e"
+repo = "git@github.com:jw3126/MonoPkg.jl.git"
