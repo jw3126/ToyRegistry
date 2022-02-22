@@ -3,4 +3,5 @@ uuid = "071889fc-69e7-11e9-1128-41fb1ef377da"
 repo = "git@github.com:jw3126/ToyRegistry.git"
 
 [packages]
+2cadc5f8-b122-44ad-bbc2-c71927881004 = { name = "SubB", path = "S/SubB" }
 df5d75f1-8db2-496f-93aa-fe1b9cef9761 = { name = "SubA", path = "S/SubA" }
