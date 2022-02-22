@@ -1,0 +1,4 @@
+name = "SubC"
+uuid = "3b2705f9-0b4f-45eb-a69a-6d8cbf9ba536"
+repo = "git@github.com:jw3126/MonoRepo.jl.git"
+subdir = "SubC"
