@@ -1,4 +1,4 @@
 name = "SubB"
 uuid = "2cadc5f8-b122-44ad-bbc2-c71927881004"
-repo = "https://github.com/jw3126/MonoRepo.jl"
+repo = "git@github.com:jw3126/MonoRepo.jl.git"
 subdir = "SubB"
